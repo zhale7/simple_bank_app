@@ -1,5 +1,4 @@
 // DOM
-const showBalanceBtn = document.querySelector(".showBalanceBtn");
 const balanceh1 = document.querySelector("#balanceh1");
 const depositeInput = document.querySelector("#depositeInput");
 const depositeh1 = document.querySelector("#depositeh1"); 
